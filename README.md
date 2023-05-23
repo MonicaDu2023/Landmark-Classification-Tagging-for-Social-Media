@@ -14,11 +14,11 @@ In this project, my app will accept any user-supplied image as input and suggest
 
 ## Project Overview
 
-##### Step 1: Create a CNN to Classify Landmarks (from Scratch)
+#### Step 1: Create a CNN to Classify Landmarks (from Scratch)
 
-##### Step 2: Create a CNN to Classify Landmarks (using Transfer Learning)
+#### Step 2: Create a CNN to Classify Landmarks (using Transfer Learning)
 
-##### Step 3: Write Landmark Prediction Algorithm
+#### Step 3: Write Landmark Prediction Algorithm
 
 ## Evaluation
 

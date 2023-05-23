@@ -14,61 +14,7 @@ In this project, my app will accept any user-supplied image as input and suggest
 
 ## Project Instructions
 
-### Getting started
-
-You have two choices for completing this project. You can work locally on your machine (NVIDIA GPU highly recommended), or you can work in the provided Udacity workspace that you can find in your classroom.
-
-#### Setting up in the Udacity Project Workspace
-You can find the Udacity Project Workspace in your Udacity classroom, in the Project section.
-
-1. Start the workspace by clicking on `Project Workspace` in the left menu in the page
-2. When prompted on whether you want a GPU or not, please ANSWER YES (the GPU is going to make everything several times faster)
-
-The environment is already setup for you, including the starter code, so you can jump right into building the project!
-
-#### Setting up locally
-
-This setup requires a bit of familiarity with creating a working deep learning environment. While things should work out of the box, in case of problems you might have to do operations on your system (like installing new NVIDIA drivers) that are not covered in the class. Please do this if you are at least a bit familiar with these subjects, otherwise please consider using the provided Udacity workspace that you find in the classroom.
-
-1. Open a terminal and clone the repository, then navigate to the downloaded folder:
-	
-	```	
-		git clone https://github.com/udacity/cd1821-CNN-project-starter.git
-		cd cd1821-CNN-project-starter
-	```
-    
-2. Create a new conda environment with python 3.7.6:
-
-    ```
-        conda create --name udacity_cnn_project -y python=3.7.6
-        conda activate udacity_cnn_project
-    ```
-    
-    NOTE: you will have to execute `conda activate udacity_cnn_project` for every new terminal session.
-    
-3. Install the requirements of the project:
-
-    ```
-        pip install -r requirements.txt
-    ```
-
-4. Install and open Jupyter lab:
-	
-	```
-        pip install jupyterlab
-		jupyter lab
-	```
-
-### Developing your project
-
-Now that you have a working environment, execute the following steps:
-
->**Note:** Complete the following notebooks in order, do not move to the next step if you didn't complete the previous one.
-
-1. Open the `cnn_from_scratch.ipynb` notebook and follow the instructions there
-2. Open `transfer_learning.ipynb` and follow the instructions
-3. Open `app.ipynb` and follow the instructions there
-
+### Step 1: Create a CNN to Classify Landmarks (from Scratch)
 ## Evaluation
 
 Your project will be reviewed by a Udacity reviewer against the CNN project rubric.  Review this rubric thoroughly and self-evaluate your project before submission.  All criteria found in the rubric must meet specifications for you to pass.

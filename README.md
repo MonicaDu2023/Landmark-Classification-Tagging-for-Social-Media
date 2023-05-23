@@ -12,9 +12,14 @@ If no location metadata for an image is available, one way to infer the location
 In this project, my app will accept any user-supplied image as input and suggest the top k most relevant landmarks from 50 possible landmarks from across the world.
 
 
-## Project Instructions
+## Project Overview
 
 ### Step 1: Create a CNN to Classify Landmarks (from Scratch)
+
+### Step 2: Create a CNN to Classify Landmarks (using Transfer Learning)
+
+### Step 3: Write Landmark Prediction Algorithm
+
 ## Evaluation
 
 Your project will be reviewed by a Udacity reviewer against the CNN project rubric.  Review this rubric thoroughly and self-evaluate your project before submission.  All criteria found in the rubric must meet specifications for you to pass.

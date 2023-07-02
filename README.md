@@ -24,7 +24,7 @@ In this project, my app will accept any user-supplied image as input and suggest
 
 ## Dataset Info
 
-The landmark images are a subset of the Google Landmarks Dataset v2.
+The landmark images are a subset of the Google Landmarks Dataset v2
 
 ## Prerequisite
 
